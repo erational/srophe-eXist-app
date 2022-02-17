@@ -74,7 +74,7 @@ body {font-family: verdana, arial, sans-serif; background-color:#009440;}
 .brand {margin-top:-.75em; margin-left:40px;padding-left:0;}
 .brand img {margin-left:1.5em;padding-left:0;}
 .navbar-inner .nav > li > a:hover, .advanced-search > a:hover {
-        border-bottom: 4px solid #DDEAF1 !important;  
+  border-bottom: 4px solid #DDEAF1 !important;
 }.banner-icon {font-size:2.5em; display:inline-block; margin-right:.15em;}
 .navbar-inner > .container > .nav > li.selected {border-bottom: 4px solid #E69849 !important; }
 .advanced-search > a {color:#999; text-decoration:none;}
