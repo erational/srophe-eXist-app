@@ -11,7 +11,7 @@
 /* The ribbons */
 .corner-ribbon{
   width: 200px;
-  background: #e43;
+  background: #009440;
   position: absolute;
   top: 25px;
   left: -50px;
@@ -52,7 +52,7 @@
    z-index: 1500;
 }
    
-a, a:hover {color:#009440;}
+a, a:hover {color:#a94442;}
 
 /* Main content blocks */
 body {font-family: verdana, arial, sans-serif; background-color:#009440;}
@@ -809,3 +809,7 @@ button.bibl-show {margin: .5em -1em;}
     }
 .caret {float:left; margin-left:.5em; margin-top:.5em;}    
 }
+
+/* Mirador styles */
+.mirador {margin:1em; padding:1em; z-index: 1; min-height:600px; poisition: relative;}
+#mirador nav.mirador-workspace-control-panel {display:none;}
